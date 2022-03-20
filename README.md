@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TrainSoft](https://www.trainsoft.io/)
 
-- 🌱 I’m currently learning **SAP HANA, ABAB and VMware**
+- 🌱 I’m currently learning **SAP HANA, ABAP and VMware**
 
 - 💬 Ask me about **AWS**
 
