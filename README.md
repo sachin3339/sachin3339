@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin3339&label=Profile%20views&color=0e75b6&style=flat" alt="sachin3339" /> </p>
 
-- 🔭 I’m currently working on [Gnosis Labs](https://learnlytica.com)
+- 🔭 I’m currently working on [Learnlytica](https://learnlytica.com)
 
 - 🌱 I’m currently learning **SAP HANA, ABAP and VMware**
 
