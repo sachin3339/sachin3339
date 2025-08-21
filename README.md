@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS**
 
-- 📫 How to reach me **2017219@iiitdmj.ac.in**
+- 📫 How to reach me **sachindiwakar3339@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
